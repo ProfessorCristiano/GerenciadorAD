@@ -1,0 +1,2 @@
+# GerenciadorAD
+Gerenciador AD
