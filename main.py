@@ -1,4 +1,11 @@
-# Interface gráfica de um programa de gerenciador de tarefas do AD.
+#
+# Programa Interface gráfica de um programa de gerenciador de tarefas do AD.
+# Criado por Professor Cristiano Teixeira
+# Data: 2023-10-01
+# Licença: Apache-2.0
+# Este programa é um exemplo de interface gráfica para Gerenciar Usuários e Computadores no AD.
+# Ele utiliza a biblioteca Tkinter para criar a interface e a biblioteca paramiko para comunicação SSH.
+#
 
 import tkinter as tk
 from tkinter import messagebox, ttk, simpledialog
